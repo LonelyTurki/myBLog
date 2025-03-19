@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on iT Blog</title>
+    <link>//localhost:1313/posts/</link>
+    <description>Recent content in Posts on iT Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>talmalky124@gmail.com (Turki Almalky)</managingEditor>
+    <webMaster>talmalky124@gmail.com (Turki Almalky)</webMaster>
+    <copyright>© 2025 Turki Almalky</copyright>
+    <lastBuildDate>Wed, 19 Mar 2025 20:15:00 +0300</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Cybersecurity</title>
+      <link>//localhost:1313/posts/blogs/it/cyber/</link>
+      <pubDate>Wed, 19 Mar 2025 20:15:00 +0300</pubDate>
+      <author>talmalky124@gmail.com (Turki Almalky)</author>
+      <guid>//localhost:1313/posts/blogs/it/cyber/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence (AI)</title>
+      <link>//localhost:1313/posts/blogs/it/ai/</link>
+      <pubDate>Wed, 19 Mar 2025 19:26:35 +0300</pubDate>
+      <author>talmalky124@gmail.com (Turki Almalky)</author>
+      <guid>//localhost:1313/posts/blogs/it/ai/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
